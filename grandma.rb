@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma(string)
-  if string == string.downcase
+def speak_to_grandma(phrase)
+  if phrase == string.downcase
     return "I LOVE YOU GRANDMA!"
   elsif string == string.upcase
      return "I LOVE YOU TOO PUMPKIN!"
